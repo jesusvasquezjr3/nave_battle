@@ -1,6 +1,8 @@
 # NaveBattle 🚀
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## Descripción
 
@@ -44,8 +46,8 @@ Aquí podrás ver un breve GIF demostrativo del juego en acción:
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/Proyecto-NaveBattle.git
-   cd Proyecto-NaveBattle
+   git clone https://github.com/tu-usuario/jesusvasquezjr3/nave_battle.git
+   cd nave_battle
     ```
 
 2. **Crea y activa un entorno virtual (opcional pero recomendado)**
